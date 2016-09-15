@@ -1,0 +1,11 @@
+{
+  "name": "react-stargate",
+  "version": "0.0.1",
+  "description": "React components to output static placeholder divs that will never update",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Moretti <axyzxp@gmail.com>",
+  "license": "MIT"
+}
